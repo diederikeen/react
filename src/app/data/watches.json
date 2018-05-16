@@ -1,0 +1,29 @@
+[
+
+  {
+    "brand": "Omega",
+    "watches": [
+      {
+        "type": "Speedmaster",
+        "model": "Professional",
+        "image_url": "https://www.omegawatches.com/media/catalog/product/cache/image_1/800x1100/e9c3970ab036de70892d86c6d221abfe/s/o/soldier-31130423001006.png"
+      },
+      {
+        "type": "Speedmaster",
+        "model": "Vintage",
+        "image_url": "https://www.omegawatches.com/media/catalog/product/cache/image_1/800x1100/e9c3970ab036de70892d86c6d221abfe/s/o/soldier-33110425101002.png"
+      },
+      {
+        "type": "Seamaster",
+        "model": "300",
+        "image_url": "https://www.omegawatches.com/media/catalog/product/cache/image_1/800x1100/e9c3970ab036de70892d86c6d221abfe/s/o/soldier-23322412101002.png"
+      },
+      {
+        "type": "Seamaster",
+        "model": "Aqua Terra",
+        "image_url": "https://www.omegawatches.com/media/catalog/product/cache/image_1/800x1100/beff4985b56e3afdbeabfc89641a4582/s/o/soldier-22012412103002.png"
+      }
+    ]
+  }
+
+]
